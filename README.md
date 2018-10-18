@@ -59,7 +59,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [Compatible Reward Inverse Reinforcement Learning](https://papers.nips.cc/paper/6800-compatible-reward-inverse-reinforcement-learning), A. Metelli et al., NIPS 2017
 
 ## Tutorials and talks
-  * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [Slides](https://sites.google.com/view/icml2018-imitation-learning/)
+  * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
   * [Imitation learning basic (Chinese)](https://www.youtube.com/watch?v=rOho-2oJFeA)
 ## Blogs
   * [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
