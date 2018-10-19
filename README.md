@@ -17,6 +17,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [Deep Q-learning from Demonstrations](https://arxiv.org/abs/1704.03732), T. Hester et al., AAAI 2018
   * [Third-Person Imitation Learning](https://arxiv.org/abs/1703.01703), B. Stadie et al., ICLR 2017
   * [Self-Imitation Learning](https://arxiv.org/abs/1806.05635), J. Oh., ICML 2018
+  * [RAIL: Risk-Averse Imitation Learning](https://arxiv.org/abs/1707.06658), A. Santara et al., NIPS 2017
 
 ### Survey Papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
@@ -60,7 +61,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
-  * [Imitation learning basic (Chinese)](https://www.youtube.com/watch?v=rOho-2oJFeA)
+  * [Imitation learning basic (National Taiwan University)](https://www.youtube.com/watch?v=rOho-2oJFeA)
 ## Blogs
   * [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
 
