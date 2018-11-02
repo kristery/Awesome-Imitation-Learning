@@ -58,6 +58,8 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [Reinforcement Learning from Imperfect Demonstrations](https://arxiv.org/pdf/1802.05313.pdf), Y. Gao et al., ICML Workshop 2018
 
 ### Inverse reinforcement learning
+  * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), B. Ziebart et al., AAAI 2008
+  * [A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/pdf/1611.03852.pdf), C. Finn et al., NIPS Workshop 2016
   * [Compatible Reward Inverse Reinforcement Learning](https://papers.nips.cc/paper/6800-compatible-reward-inverse-reinforcement-learning), A. Metelli et al., NIPS 2017
   * [Learning Robust Rewards with Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/1710.11248), J. Fu., et al.
 
