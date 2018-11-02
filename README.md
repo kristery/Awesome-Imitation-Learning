@@ -27,6 +27,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 ### Cold-start
   * [One-Shot Imitation Learning](http://papers.nips.cc/paper/6709-one-shot-imitation-learning), Y. Duan et al., NIPS 2017
   * [Zero-Shot Visual Imitation](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Pathak_Zero-Shot_Visual_Imitation_CVPR_2018_paper.pdf), D. Pathak et al., ICLR 2018
+  * [One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks](https://arxiv.org/pdf/1810.11043.pdf), T. Yu et al.
 
 ### Multi-modal
   * [Robust Imitation of Diverse Behaviors](http://papers.nips.cc/paper/7116-robust-imitation-of-diverse-behaviors), Z. Wang et al., NIPS 2017
