@@ -59,6 +59,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 
 ### Inverse reinforcement learning
   * [Compatible Reward Inverse Reinforcement Learning](https://papers.nips.cc/paper/6800-compatible-reward-inverse-reinforcement-learning), A. Metelli et al., NIPS 2017
+  * [Learning Robust Rewards with Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/1710.11248), J. Fu., et al.
 
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
