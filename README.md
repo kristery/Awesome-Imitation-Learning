@@ -63,6 +63,9 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
   * [Imitation learning basic (National Taiwan University)](https://www.youtube.com/watch?v=rOho-2oJFeA)
+  * [New Frontiers in Imitation Learning (2017)](https://www.youtube.com/watch?v=4PnNlvPGbUQi)
+  * [Unity Course](https://www.youtube.com/watch?v=uiutRBXfEbg)
+
 ## Blogs
   * [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
 
