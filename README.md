@@ -1,5 +1,5 @@
 # Awesome-Imitation-Learning: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome imitation learning resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
+A curated list of awesome imitation learning (including inverse reinforcement learning and behavior cloning) resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Contributing 
 Please feel free to send me [pull requrests](https://github.com/kristery/Awesome-Imitation-Learning/pulls) or email (d06922005@csie.ntu.edu.tw) to add links.
@@ -18,6 +18,10 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [Third-Person Imitation Learning](https://arxiv.org/abs/1703.01703), B. Stadie et al., ICLR 2017
   * [Self-Imitation Learning](https://arxiv.org/abs/1806.05635), J. Oh., ICML 2018
   * [RAIL: Risk-Averse Imitation Learning](https://arxiv.org/abs/1707.06658), A. Santara et al., NIPS 2017
+
+### Applications
+  * [Learning Montezuma’s Revenge from a Single Demonstration](https://arxiv.org/pdf/1812.03381.pdf), T. Salimans., et al.
+  * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), M. Bansal., et al.
 
 ### Survey Papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
@@ -50,12 +54,14 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 
 ### Behavior cloning
   * [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954), F. Torabi et al., IJCAI 2018
+  * [Causal Confusion in Imitation Learning](https://people.eecs.berkeley.edu/~dineshjayaraman/projects/causal_confusion_nips18.pdf), P. Haan et al., NIPS 2018
 
 ### Imitation with reward
   * [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Reward](https://pdfs.semanticscholar.org/8186/04245973bb30ad021728149a89157b3b2780.pdf), M. Vecerik et al.
   * [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://arxiv.org/abs/1802.09564), Y. Zhu et al., RSS 2018
   * [Policy Optimization with Demonstrations](http://proceedings.mlr.press/v80/kang18a.html), B. Kang et al., ICML 2018
   * [Reinforcement Learning from Imperfect Demonstrations](https://arxiv.org/pdf/1802.05313.pdf), Y. Gao et al., ICML Workshop 2018
+  * [Pre-training with Non-expert Human Demonstration for Deep Reinforcement Learning](https://arxiv.org/pdf/1812.08904.pdf), G. Cruz Jr., et al.
 
 ### Inverse reinforcement learning
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), B. Ziebart et al., AAAI 2008
