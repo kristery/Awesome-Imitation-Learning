@@ -18,10 +18,13 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [Third-Person Imitation Learning](https://arxiv.org/abs/1703.01703), B. Stadie et al., ICLR 2017
   * [Self-Imitation Learning](https://arxiv.org/abs/1806.05635), J. Oh., ICML 2018
   * [RAIL: Risk-Averse Imitation Learning](https://arxiv.org/abs/1707.06658), A. Santara et al., NIPS 2017
+  * [An Algorithmic Perspective on Imitation Learning](https://www.nowpublishers.com/article/Details/ROB-053), T. Osa et al.
+  * [Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning](https://arxiv.org/pdf/1809.02925.pdf), I. Kostrikov et al.
+  * [Universal Planning Networks](https://arxiv.org/pdf/1804.00645.pdf), A. Srinivas et al.
 
 ### Applications
   * [Learning Montezuma’s Revenge from a Single Demonstration](https://arxiv.org/pdf/1812.03381.pdf), T. Salimans., et al.
-  * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), M. Bansal., et al.
+  * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), M. Bansal et al.
 
 ### Survey Papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
@@ -50,7 +53,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 
 
 ### Model-based
-  * [Model-based Adversarial Imitation Learning](https://arxiv.org/abs/1612.02179), N. Baram et al.
+  * [End-to-End Differentiable Adversarial Imitation Learning](http://proceedings.mlr.press/v70/baram17a/baram17a.pdf), N. Baram et al., ICML 2017
 
 ### Behavior cloning
   * [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954), F. Torabi et al., IJCAI 2018
@@ -68,6 +71,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/pdf/1611.03852.pdf), C. Finn et al., NIPS Workshop 2016
   * [Compatible Reward Inverse Reinforcement Learning](https://papers.nips.cc/paper/6800-compatible-reward-inverse-reinforcement-learning), A. Metelli et al., NIPS 2017
   * [Learning Robust Rewards with Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/1710.11248), J. Fu., et al.
+  * [Model-Free Deep Inverse Reinforcement Learning by Logistic Regression](https://link.springer.com/article/10.1007/s11063-017-9702-7), E Uchibe
 
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
