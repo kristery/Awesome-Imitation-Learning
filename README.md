@@ -52,6 +52,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 
 ### Human Preference
   * [Deep Reinforcement Learning from Human Preferences](http://papers.nips.cc/paper/7017-deep-reinforcement-learning-from-human-preferences), P. Christiano et al., NIPS 2017
+  * [A Low-Cost Ethics Shaping Approach for Designing Reinforcement Learning Agents](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16195/15869), Y. Wu et al., AAAI 2018
 
 ### Observation-based
   * [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374), Y. Liu et al.
