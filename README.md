@@ -21,6 +21,9 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [An Algorithmic Perspective on Imitation Learning](https://www.nowpublishers.com/article/Details/ROB-053), T. Osa et al.
   * [Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning](https://arxiv.org/pdf/1809.02925.pdf), I. Kostrikov et al.
   * [Universal Planning Networks](https://arxiv.org/pdf/1804.00645.pdf), A. Srinivas et al.
+  * [Imitation Learning from Imperfect Demonstration](https://arxiv.org/abs/1901.09387), Y. Wu et al.
+  * [Learning to Search via Retrospective Imitation](https://authors.library.caltech.edu/92668/1/1804.00846.pdf), J. Song et al.
+  * [Learning Plannable Representations with Causal InfoGAN](http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan.pdf), T. Kurutach et al., NIPS 2018
 
 ### Applications
   * [Learning Montezuma’s Revenge from a Single Demonstration](https://arxiv.org/pdf/1812.03381.pdf), T. Salimans., et al.
@@ -41,6 +44,9 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets](http://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructured-demonstrations-using-generative-adversarial-nets), K. Hausman et al., NIPS 2017
   * [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations), Y. Li et al., NIPS 2017
 
+### Multi-task
+  * [Shared Multi-Task Imitation Learning for Indoor Self-Navigation](https://arxiv.org/pdf/1808.04503.pdf), J. Xu et al.
+
 ### Hierarchical
   * [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590), H. Le et al., ICML 2018
 
@@ -59,7 +65,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954), F. Torabi et al., IJCAI 2018
   * [Causal Confusion in Imitation Learning](https://people.eecs.berkeley.edu/~dineshjayaraman/projects/causal_confusion_nips18.pdf), P. Haan et al., NIPS 2018
 
-### Imitation with reward
+### Imitation with rewards
   * [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Reward](https://pdfs.semanticscholar.org/8186/04245973bb30ad021728149a89157b3b2780.pdf), M. Vecerik et al.
   * [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://arxiv.org/abs/1802.09564), Y. Zhu et al., RSS 2018
   * [Policy Optimization with Demonstrations](http://proceedings.mlr.press/v80/kang18a.html), B. Kang et al., ICML 2018
