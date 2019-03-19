@@ -2,7 +2,7 @@
 A curated list of awesome imitation learning (including inverse reinforcement learning and behavior cloning) resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Contributing 
-Please feel free to send me [pull requrests](https://github.com/kristery/Awesome-Imitation-Learning/pulls) or email (d06922005@csie.ntu.edu.tw) to add links.
+Please feel free to send me [pull request](https://github.com/kristery/Awesome-Imitation-Learning/pulls) or email (d06922005@csie.ntu.edu.tw) to add links.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 
 ## Papers
 
-### General
+### General settings
   * [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), J. Ho et al., NIPS 2016
   * [Deep Q-learning from Demonstrations](https://arxiv.org/abs/1704.03732), T. Hester et al., AAAI 2018
   * [Third-Person Imitation Learning](https://arxiv.org/abs/1703.01703), B. Stadie et al., ICLR 2017
@@ -30,38 +30,38 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
   * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), M. Bansal et al.
   * [Video Imitation GAN: Learning control policies by imitating raw videos using generative adversarial reward estimation](https://arxiv.org/pdf/1810.01108.pdf), S. Chaudhury et al.
 
-### Survey Papers
+### Survey papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
   * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866), K. Arulkumaran et al.
   * [Imitation Learning : A Survey of Learning Methods](http://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf), A. Hussein et al.
 
-### Cold-start
+### Cold-start methods
   * [One-Shot Imitation Learning](http://papers.nips.cc/paper/6709-one-shot-imitation-learning), Y. Duan et al., NIPS 2017
   * [Zero-Shot Visual Imitation](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Pathak_Zero-Shot_Visual_Imitation_CVPR_2018_paper.pdf), D. Pathak et al., ICLR 2018
   * [One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks](https://arxiv.org/pdf/1810.11043.pdf), T. Yu et al.
 
-### Multi-modal
+### Multi-modal methods
   * [Robust Imitation of Diverse Behaviors](http://papers.nips.cc/paper/7116-robust-imitation-of-diverse-behaviors), Z. Wang et al., NIPS 2017
   * [Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets](http://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructured-demonstrations-using-generative-adversarial-nets), K. Hausman et al., NIPS 2017
   * [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations), Y. Li et al., NIPS 2017
 
-### Multi-task
+### Learning from multi-task demonstrations
   * [Shared Multi-Task Imitation Learning for Indoor Self-Navigation](https://arxiv.org/pdf/1808.04503.pdf), J. Xu et al.
 
-### Hierarchical
+### Hierarchical approaches
   * [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590), H. Le et al., ICML 2018
   * [OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning](https://arxiv.org/pdf/1709.06683.pdf), P. Henderson et al., AAAI 2018
 
-### Human Preference
+### Learning from human preference
   * [Deep Reinforcement Learning from Human Preferences](http://papers.nips.cc/paper/7017-deep-reinforcement-learning-from-human-preferences), P. Christiano et al., NIPS 2017
   * [A Low-Cost Ethics Shaping Approach for Designing Reinforcement Learning Agents](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16195/15869), Y. Wu et al., AAAI 2018
 
-### Observation-based
+### Learning from observations
   * [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374), Y. Liu et al.
   * [Observational Learning by Reinforcement Learning](https://arxiv.org/abs/1706.06617), D. Borsa et al.
 
 
-### Model-based
+### Model-based approaches
   * [End-to-End Differentiable Adversarial Imitation Learning](http://proceedings.mlr.press/v70/baram17a/baram17a.pdf), N. Baram et al., ICML 2017
 
 ### Behavior cloning
