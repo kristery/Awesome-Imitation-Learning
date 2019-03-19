@@ -30,6 +30,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), M. Bansal et al.
   * [Video Imitation GAN: Learning control policies by imitating raw videos using generative adversarial reward estimation](https://arxiv.org/pdf/1810.01108.pdf), S. Chaudhury et al.
   * [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), F. Codevilla et al., ICRA 2018
+  * [End-to-End Learning Driver Policy using Moments Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/8664869), D. Qian et al., ROBIO 2018
 
 ### Survey papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
@@ -74,7 +75,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://arxiv.org/abs/1802.09564), Y. Zhu et al., RSS 2018
   * [Policy Optimization with Demonstrations](http://proceedings.mlr.press/v80/kang18a.html), B. Kang et al., ICML 2018
   * [Reinforcement Learning from Imperfect Demonstrations](https://arxiv.org/pdf/1802.05313.pdf), Y. Gao et al., ICML Workshop 2018
-  * [Pre-training with Non-expert Human Demonstration for Deep Reinforcement Learning](https://arxiv.org/pdf/1812.08904.pdf), G. Cruz Jr., et al.
+  * [Pre-training with Non-expert Human Demonstration for Deep Reinforcement Learning](https://arxiv.org/pdf/1812.08904.pdf), G. Cruz Jr et al.
+  * [Sparse Reward Based Manipulator Motion Planning by Using High Speed Learning from Demonstrations](https://ieeexplore.ieee.org/abstract/document/8665328), G. Zuo et al., ROBIO 2018
 
 ### Inverse reinforcement learning
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), B. Ziebart et al., AAAI 2008
