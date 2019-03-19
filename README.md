@@ -28,6 +28,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 ### Applications
   * [Learning Montezuma’s Revenge from a Single Demonstration](https://arxiv.org/pdf/1812.03381.pdf), T. Salimans., et al.
   * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), M. Bansal et al.
+  * [Video Imitation GAN: Learning control policies by imitating raw videos using generative adversarial reward estimation](https://arxiv.org/pdf/1810.01108.pdf), S. Chaudhury et al.
 
 ### Survey Papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
@@ -49,6 +50,7 @@ Please feel free to send me [pull requrests](https://github.com/kristery/Awesome
 
 ### Hierarchical
   * [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590), H. Le et al., ICML 2018
+  * [OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning](https://arxiv.org/pdf/1709.06683.pdf), P. Henderson et al., AAAI 2018
 
 ### Human Preference
   * [Deep Reinforcement Learning from Human Preferences](http://papers.nips.cc/paper/7017-deep-reinforcement-learning-from-human-preferences), P. Christiano et al., NIPS 2017
