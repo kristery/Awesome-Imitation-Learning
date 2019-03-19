@@ -29,6 +29,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Learning Montezuma’s Revenge from a Single Demonstration](https://arxiv.org/pdf/1812.03381.pdf), T. Salimans., et al.
   * [ChauffeurNet: Learning to Drive by Imitating the Best and Synthesizing the Worst](https://arxiv.org/pdf/1812.03079.pdf), M. Bansal et al.
   * [Video Imitation GAN: Learning control policies by imitating raw videos using generative adversarial reward estimation](https://arxiv.org/pdf/1810.01108.pdf), S. Chaudhury et al.
+  * [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), F. Codevilla et al., ICRA 2018
 
 ### Survey papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
