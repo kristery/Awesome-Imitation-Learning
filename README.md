@@ -40,7 +40,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Zero-Shot Visual Imitation](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w40/Pathak_Zero-Shot_Visual_Imitation_CVPR_2018_paper.pdf), D. Pathak et al., ICLR 2018
   * [One-Shot Hierarchical Imitation Learning of Compound Visuomotor Tasks](https://arxiv.org/pdf/1810.11043.pdf), T. Yu et al.
 
-### Multi-modal methods
+### Learning multi-modal behaviors
   * [Robust Imitation of Diverse Behaviors](http://papers.nips.cc/paper/7116-robust-imitation-of-diverse-behaviors), Z. Wang et al., NIPS 2017
   * [Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets](http://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructured-demonstrations-using-generative-adversarial-nets), K. Hausman et al., NIPS 2017
   * [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations), Y. Li et al., NIPS 2017
