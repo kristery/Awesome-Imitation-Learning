@@ -46,6 +46,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Robust Imitation of Diverse Behaviors](http://papers.nips.cc/paper/7116-robust-imitation-of-diverse-behaviors), Z. Wang et al., NIPS 2017
   * [Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets](http://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructured-demonstrations-using-generative-adversarial-nets), K. Hausman et al., NIPS 2017
   * [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations), Y. Li et al., NIPS 2017
+  * [Learning a Multi-Modal Policy via Imitating Demonstrations with Mixed Behaviors](https://arxiv.org/pdf/1903.10304), F Hsiao et al.
 
 ### Learning from multi-task demonstrations
   * [Shared Multi-Task Imitation Learning for Indoor Self-Navigation](https://arxiv.org/pdf/1808.04503.pdf), J. Xu et al.
@@ -69,6 +70,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### Behavior cloning
   * [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954), F. Torabi et al., IJCAI 2018
   * [Causal Confusion in Imitation Learning](https://people.eecs.berkeley.edu/~dineshjayaraman/projects/causal_confusion_nips18.pdf), P. Haan et al., NIPS 2018
+  * [Truly Batch Apprenticeship Learning with Deep Successor Features](https://arxiv.org/pdf/1903.10077), D. Lee et al.
 
 ### Imitation with rewards
   * [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Reward](https://pdfs.semanticscholar.org/8186/04245973bb30ad021728149a89157b3b2780.pdf), M. Vecerik et al.
