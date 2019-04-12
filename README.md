@@ -79,6 +79,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Reinforcement Learning from Imperfect Demonstrations](https://arxiv.org/pdf/1802.05313.pdf), Y. Gao et al., ICML Workshop 2018
   * [Pre-training with Non-expert Human Demonstration for Deep Reinforcement Learning](https://arxiv.org/pdf/1812.08904.pdf), G. Cruz Jr et al.
   * [Sparse Reward Based Manipulator Motion Planning by Using High Speed Learning from Demonstrations](https://ieeexplore.ieee.org/abstract/document/8665328), G. Zuo et al., ROBIO 2018
+  * [Reinforced Imitation in Heterogeneous Action Space](https://arxiv.org/pdf/1904.03438.pdf), K. Zolna et al.
 
 ### Inverse reinforcement learning
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), B. Ziebart et al., AAAI 2008
