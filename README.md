@@ -21,7 +21,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [An Algorithmic Perspective on Imitation Learning](https://www.nowpublishers.com/article/Details/ROB-053), T. Osa et al.
   * [Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning](https://arxiv.org/pdf/1809.02925.pdf), I. Kostrikov et al.
   * [Universal Planning Networks](https://arxiv.org/pdf/1804.00645.pdf), A. Srinivas et al.
-  * [Imitation Learning from Imperfect Demonstration](https://arxiv.org/abs/1901.09387), Y. Wu et al.
+  * [Imitation Learning from Imperfect Demonstration](https://arxiv.org/abs/1901.09387), Y. Wu et al., ICML 2019
   * [Learning to Search via Retrospective Imitation](https://authors.library.caltech.edu/92668/1/1804.00846.pdf), J. Song et al.
   * [Learning Plannable Representations with Causal InfoGAN](http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan.pdf), T. Kurutach et al., NIPS 2018
 
@@ -85,8 +85,9 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), B. Ziebart et al., AAAI 2008
   * [A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models](https://arxiv.org/pdf/1611.03852.pdf), C. Finn et al., NIPS Workshop 2016
   * [Compatible Reward Inverse Reinforcement Learning](https://papers.nips.cc/paper/6800-compatible-reward-inverse-reinforcement-learning), A. Metelli et al., NIPS 2017
-  * [Learning Robust Rewards with Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/1710.11248), J. Fu., et al.
-  * [Model-Free Deep Inverse Reinforcement Learning by Logistic Regression](https://link.springer.com/article/10.1007/s11063-017-9702-7), E Uchibe
+  * [Learning Robust Rewards with Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/1710.11248), J. Fu et al.
+  * [Model-Free Deep Inverse Reinforcement Learning by Logistic Regression](https://link.springer.com/article/10.1007/s11063-017-9702-7), E. Uchibe
+  * [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](https://arxiv.org/abs/1904.06387), D. Brown et al. 
 
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
