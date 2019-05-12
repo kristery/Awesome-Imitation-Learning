@@ -24,6 +24,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Imitation Learning from Imperfect Demonstration](https://arxiv.org/abs/1901.09387), Y. Wu et al., ICML 2019
   * [Learning to Search via Retrospective Imitation](https://authors.library.caltech.edu/92668/1/1804.00846.pdf), J. Song et al.
   * [Learning Plannable Representations with Causal InfoGAN](http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan.pdf), T. Kurutach et al., NIPS 2018
+  * Random Expert Distillation: Imitation Learning via Expert Policy Support Estimation, R. Wang et al., ICML 2019
 
 ### Applications
   * [Learning Montezuma’s Revenge from a Single Demonstration](https://arxiv.org/pdf/1812.03381.pdf), T. Salimans., et al.
@@ -55,7 +56,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Hierarchical Imitation and Reinforcement Learning](https://arxiv.org/abs/1803.00590), H. Le et al., ICML 2018
   * [OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning](https://arxiv.org/pdf/1709.06683.pdf), P. Henderson et al., AAAI 2018
   * [Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information](https://openreview.net/pdf?id=BJeWUs05KQ), M. Sharma et al., ICLR 2019
-
+  * [CompILE: Compositional Imitation Learning and Execution](https://arxiv.org/pdf/1812.01483.pdf), T. Kipf., ICML 2019
 
 ### Learning from human preference
   * [Deep Reinforcement Learning from Human Preferences](http://papers.nips.cc/paper/7017-deep-reinforcement-learning-from-human-preferences), P. Christiano et al., NIPS 2017
@@ -64,7 +65,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### Learning from observations
   * [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374), Y. Liu et al.
   * [Observational Learning by Reinforcement Learning](https://arxiv.org/abs/1706.06617), D. Borsa et al.
-
+  * Provably Efficient Imitation Learning from Observation Alone, W. Sun et al., ICML 2019
 
 ### Model-based approaches
   * [End-to-End Differentiable Adversarial Imitation Learning](http://proceedings.mlr.press/v70/baram17a/baram17a.pdf), N. Baram et al., ICML 2017
