@@ -66,6 +66,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374), Y. Liu et al.
   * [Observational Learning by Reinforcement Learning](https://arxiv.org/abs/1706.06617), D. Borsa et al.
   * Provably Efficient Imitation Learning from Observation Alone, W. Sun et al., ICML 2019
+  * [Adversarial Imitation Learning from State-only Demonstrations](https://dl.acm.org/citation.cfm?id=3332067), F. Torabi et al., AAMAS 2019
 
 ### Model-based approaches
   * [End-to-End Differentiable Adversarial Imitation Learning](http://proceedings.mlr.press/v70/baram17a/baram17a.pdf), N. Baram et al., ICML 2017
@@ -83,6 +84,9 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Pre-training with Non-expert Human Demonstration for Deep Reinforcement Learning](https://arxiv.org/pdf/1812.08904.pdf), G. Cruz Jr et al.
   * [Sparse Reward Based Manipulator Motion Planning by Using High Speed Learning from Demonstrations](https://ieeexplore.ieee.org/abstract/document/8665328), G. Zuo et al., ROBIO 2018
   * [Reinforced Imitation in Heterogeneous Action Space](https://arxiv.org/pdf/1904.03438.pdf), K. Zolna et al.
+
+### Multi-agent systems
+  * [Independent Generative Adversarial Self-Imitation Learning in Cooperative Multiagent Systems](https://dl.acm.org/citation.cfm?id=3331837), X. Hao et al., AAMAS 2019
 
 ### Inverse reinforcement learning
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), B. Ziebart et al., AAAI 2008
