@@ -32,6 +32,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Video Imitation GAN: Learning control policies by imitating raw videos using generative adversarial reward estimation](https://arxiv.org/pdf/1810.01108.pdf), S. Chaudhury et al.
   * [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), F. Codevilla et al., ICRA 2018
   * [End-to-End Learning Driver Policy using Moments Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/8664869), D. Qian et al., ROBIO 2018
+  * [Imitation Learning from Video by Leveraging Proprioception](https://arxiv.org/pdf/1905.09335.pdf), F. Torabi et al., IJCAI 2019
 
 ### Survey papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
