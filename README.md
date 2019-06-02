@@ -76,6 +76,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954), F. Torabi et al., IJCAI 2018
   * [Causal Confusion in Imitation Learning](https://people.eecs.berkeley.edu/~dineshjayaraman/projects/causal_confusion_nips18.pdf), P. Haan et al., NIPS 2018
   * [Truly Batch Apprenticeship Learning with Deep Successor Features](https://arxiv.org/pdf/1903.10077), D. Lee et al.
+  * [SQIL: Imitation Learning via Regularized Behavioral Cloning](https://arxiv.org/pdf/1905.11108.pdf), S. Reddy et al.
+
 
 ### Imitation with rewards
   * [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Reward](https://pdfs.semanticscholar.org/8186/04245973bb30ad021728149a89157b3b2780.pdf), M. Vecerik et al.
