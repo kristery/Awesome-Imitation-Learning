@@ -25,7 +25,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Learning to Search via Retrospective Imitation](https://authors.library.caltech.edu/92668/1/1804.00846.pdf), J. Song et al.
   * [Learning Plannable Representations with Causal InfoGAN](http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan.pdf), T. Kurutach et al., NIPS 2018
   * Random Expert Distillation: Imitation Learning via Expert Policy Support Estimation, R. Wang et al., ICML 2019
-  * [Goal-conditioned Imitation Learning](https://openreview.net/pdf?id=HkglHcSj2N), Y. Ding et al, ICML Workshop 2019
+  * [Goal-conditioned Imitation Learning](https://openreview.net/pdf?id=HkglHcSj2N), Y. Ding et al., ICML Workshop 2019
 
 ### Applications
   * [Learning Montezuma’s Revenge from a Single Demonstration](https://arxiv.org/pdf/1812.03381.pdf), T. Salimans., et al.
