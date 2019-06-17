@@ -21,10 +21,11 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [An Algorithmic Perspective on Imitation Learning](https://www.nowpublishers.com/article/Details/ROB-053), T. Osa et al.
   * [Discriminator-Actor-Critic: Addressing Sample Inefficiency and Reward Bias in Adversarial Imitation Learning](https://arxiv.org/pdf/1809.02925.pdf), I. Kostrikov et al.
   * [Universal Planning Networks](https://arxiv.org/pdf/1804.00645.pdf), A. Srinivas et al.
-  * [Imitation Learning from Imperfect Demonstration](https://arxiv.org/abs/1901.09387), Y. Wu et al., ICML 2019
+  * [Imitation Learning from Imperfect Demonstration](http://proceedings.mlr.press/v97/wu19a/wu19a.pdf), Y. Wu et al., ICML 2019
   * [Learning to Search via Retrospective Imitation](https://authors.library.caltech.edu/92668/1/1804.00846.pdf), J. Song et al.
   * [Learning Plannable Representations with Causal InfoGAN](http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan.pdf), T. Kurutach et al., NIPS 2018
   * Random Expert Distillation: Imitation Learning via Expert Policy Support Estimation, R. Wang et al., ICML 2019
+  * [Goal-conditioned Imitation Learning](https://openreview.net/pdf?id=HkglHcSj2N), Y. Ding et al, ICML Workshop 2019
 
 ### Applications
   * [Learning Montezuma’s Revenge from a Single Demonstration](https://arxiv.org/pdf/1812.03381.pdf), T. Salimans., et al.
@@ -49,6 +50,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Multi-Modal Imitation Learning from Unstructured Demonstrations using Generative Adversarial Nets](http://papers.nips.cc/paper/6723-multi-modal-imitation-learning-from-unstructured-demonstrations-using-generative-adversarial-nets), K. Hausman et al., NIPS 2017
   * [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations), Y. Li et al., NIPS 2017
   * [Learning a Multi-Modal Policy via Imitating Demonstrations with Mixed Behaviors](https://arxiv.org/pdf/1903.10304), F Hsiao et al.
+  * [https://arxiv.org/pdf/1906.03352.pdf](https://arxiv.org/pdf/1906.03352.pdf), A. Zhou et al.
 
 ### Learning from multi-task demonstrations
   * [Shared Multi-Task Imitation Learning for Indoor Self-Navigation](https://arxiv.org/pdf/1808.04503.pdf), J. Xu et al.
@@ -98,6 +100,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Learning Robust Rewards with Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/1710.11248), J. Fu et al.
   * [Model-Free Deep Inverse Reinforcement Learning by Logistic Regression](https://link.springer.com/article/10.1007/s11063-017-9702-7), E. Uchibe
   * [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](https://arxiv.org/abs/1904.06387), D. Brown et al. 
+  * [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](http://proceedings.mlr.press/v97/brown19a/brown19a.pdf), D. Brown et al., ICML 2019
 
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
