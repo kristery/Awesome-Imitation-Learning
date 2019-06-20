@@ -21,7 +21,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Learning Plannable Representations with Causal InfoGAN](http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan.pdf), T. Kurutach et al., NeurIPS 2018
 
-  * [Self-Imitation Learning](https://arxiv.org/abs/1806.05635), J. Oh., ICML 2018
+  * [Self-Imitation Learning](https://arxiv.org/abs/1806.05635), J. Oh et al., ICML 2018
 
   * [Deep Q-learning from Demonstrations](https://arxiv.org/abs/1704.03732), T. Hester et al., AAAI 2018
 
