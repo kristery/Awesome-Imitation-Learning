@@ -34,7 +34,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), F. Codevilla et al., ICRA 2018
   * [End-to-End Learning Driver Policy using Moments Deep Neural Network](https://ieeexplore.ieee.org/abstract/document/8664869), D. Qian et al., ROBIO 2018
   * [Imitation Learning from Video by Leveraging Proprioception](https://arxiv.org/pdf/1905.09335.pdf), F. Torabi et al., IJCAI 2019
-  * [R2P2: A ReparameteRized Pushforward Policy for Diverse, Precise Generative Path Forecasting](https://link.springer.com/chapter/10.1007/978-3-030-01261-8_47), N. Rhinehart et al., ECCV 2018 [Blog](http://www.cs.cmu.edu/~nrhineha/R2P2.html) 
+  * [R2P2: A ReparameteRized Pushforward Policy for Diverse, Precise Generative Path Forecasting](https://link.springer.com/chapter/10.1007/978-3-030-01261-8_47), N. Rhinehart et al., ECCV 2018 [(Blog)](http://www.cs.cmu.edu/~nrhineha/R2P2.html) 
 
 ### Survey papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li. 
@@ -74,7 +74,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 ### Model-based approaches
   * [End-to-End Differentiable Adversarial Imitation Learning](http://proceedings.mlr.press/v70/baram17a/baram17a.pdf), N. Baram et al., ICML 2017
-  * [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/abs/1810.06544), N. Rhinehart et al. [blog](https://sites.google.com/view/imitative-models)
+  * [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/abs/1810.06544), N. Rhinehart et al. [(Blog)](https://sites.google.com/view/imitative-models)
 
 ### Behavior cloning
   * [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954), F. Torabi et al., IJCAI 2018
@@ -94,7 +94,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 ### Multi-agent systems
   * [Independent Generative Adversarial Self-Imitation Learning in Cooperative Multiagent Systems](https://dl.acm.org/citation.cfm?id=3331837), X. Hao et al., AAMAS 2019
-  * [PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings](https://arxiv.org/abs/1905.01296), N. Rhinehart et al. [Blog](https://sites.google.com/view/precog)
+  * [PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings](https://arxiv.org/abs/1905.01296), N. Rhinehart et al. [(Blog)](https://sites.google.com/view/precog)
 
 ### Inverse reinforcement learning
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), B. Ziebart et al., AAAI 2008
