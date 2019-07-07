@@ -100,6 +100,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### Learning from observations
   * [Provably Efficient Imitation Learning from Observation Alone](http://proceedings.mlr.press/v97/sun19b.html), W. Sun et al., ICML 2019
 
+  * [Recent Advances in Imitation Learning from Observation](https://arxiv.org/pdf/1905.13566.pdf), F. Torabi et al., IJCAI 2019
+  
   * [Adversarial Imitation Learning from State-only Demonstrations](https://dl.acm.org/citation.cfm?id=3332067), F. Torabi et al., AAMAS 2019
 
   * [Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation](https://arxiv.org/abs/1707.03374), Y. Liu et al., 2018
@@ -155,6 +157,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf), B. Ziebart et al., AAAI 2008
 
+### POMDP
+  * [Learning Belief Representations for Imitation Learning in POMDPs](https://arxiv.org/pdf/1906.09510.pdf), T. Gangwani et al., 2019
 
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
