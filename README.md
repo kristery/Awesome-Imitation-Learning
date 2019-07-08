@@ -19,6 +19,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Goal-conditioned Imitation Learning](https://openreview.net/pdf?id=HkglHcSj2N), Y. Ding et al., ICML Workshop 2019
 
+  * [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/pdf/1905.12310.pdf), M. Sun et al., 2019
+
   * [Learning Plannable Representations with Causal InfoGAN](http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan.pdf), T. Kurutach et al., NeurIPS 2018
 
   * [Self-Imitation Learning](https://arxiv.org/abs/1806.05635), J. Oh et al., ICML 2018
