@@ -127,6 +127,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 
 ### Imitation with rewards
+  * [Integration of Imitation Learning using GAIL and Reinforcement Learning using Task-achievement Rewards via Probabilistic Generative Model](https://arxiv.org/pdf/1907.02140.pdf), A. Kinose et al., 2019
+  
   * [Reinforced Imitation in Heterogeneous Action Space](https://arxiv.org/pdf/1904.03438), K. Zolna et al., 2019
 
   * [Reinforcement and Imitation Learning for Diverse Visuomotor Skills](https://arxiv.org/abs/1802.09564), Y. Zhu et al., RSS 2018
@@ -144,6 +146,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 ### Multi-agent systems
   * [Independent Generative Adversarial Self-Imitation Learning in Cooperative Multiagent Systems](https://dl.acm.org/citation.cfm?id=3331837), X. Hao et al., AAMAS 2019
+  
   * [PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings](https://arxiv.org/abs/1905.01296), N. Rhinehart et al., 2019 [[blog]](https://sites.google.com/view/precog)
 
 ### Inverse reinforcement learning
