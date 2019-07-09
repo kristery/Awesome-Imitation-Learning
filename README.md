@@ -66,6 +66,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   
   * [Video Imitation GAN: Learning control policies by imitating raw videos using generative adversarial reward estimation](https://arxiv.org/pdf/1810.01108.pdf), S. Chaudhury et al., 2018
 
+  * [Query-Efficient Imitation Learning for End-to-End Autonomous Driving](https://arxiv.org/abs/1605.06450), J. Zhang et al., 2016
 
 ### Survey papers
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li, 2018
@@ -121,6 +122,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Observational Learning by Reinforcement Learning](https://arxiv.org/abs/1706.06617), D. Borsa et al., 2017
 
 ### Model-based approaches
+  * [Safe end-to-end imitation learning for model predictive control](https://arxiv.org/pdf/1803.10231.pdf), K. Lee et al., ICRA 2019
+  
   * [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/abs/1810.06544), N. Rhinehart et al., 2019 [[blog]](https://sites.google.com/view/imitative-models)
 
   * [Model-based imitation learning from state trajectories](https://openreview.net/forum?id=S1GDXzb0b&noteId=S1GDXzb0b), S. Chaudhury et al., 2018
