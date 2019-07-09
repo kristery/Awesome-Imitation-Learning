@@ -21,6 +21,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Random Expert Distillation: Imitation Learning via Expert Policy Support Estimation](http://proceedings.mlr.press/v97/wang19d.html), R. Wang et al., ICML 2019
 
+  * [Uncertainty-Aware Data Aggregation for Deep Imitation Learning](https://arxiv.org/abs/1905.02780), Y. Cui et al., ICRA 2019
+
   * [Goal-conditioned Imitation Learning](https://openreview.net/pdf?id=HkglHcSj2N), Y. Ding et al., ICML Workshop 2019
 
   * [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/pdf/1905.12310.pdf), M. Sun et al., 2019
