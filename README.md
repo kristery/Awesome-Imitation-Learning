@@ -15,11 +15,17 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### General settings
   * [Imitation Learning from Imperfect Demonstration](http://proceedings.mlr.press/v97/wu19a/wu19a.pdf), Y. Wu et al., ICML 2019 
 
+  * [Sample-Efficient Imitation Learning via Generative Adversarial Nets](https://arxiv.org/abs/1809.02064), L. Blonde et al., AISTATS 2019
+  
+  * [Sample Efficient Imitation Learning for Continuous Control](https://openreview.net/pdf?id=BkN5UoAqF7), F. Sasaki et al., ICLR 2019
+
   * [Random Expert Distillation: Imitation Learning via Expert Policy Support Estimation](http://proceedings.mlr.press/v97/wang19d.html), R. Wang et al., ICML 2019
 
   * [Goal-conditioned Imitation Learning](https://openreview.net/pdf?id=HkglHcSj2N), Y. Ding et al., ICML Workshop 2019
 
   * [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/pdf/1905.12310.pdf), M. Sun et al., 2019
+
+  * [Generative Adversarial Self-Imitation Learning](https://openreview.net/forum?id=HJeABnCqKQ), J. Oh et al., 2019
 
   * [Learning Plannable Representations with Causal InfoGAN](http://papers.nips.cc/paper/8090-learning-plannable-representations-with-causal-infogan.pdf), T. Kurutach et al., NeurIPS 2018
 
@@ -43,6 +49,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 ### Applications
   * [Imitation Learning from Video by Leveraging Proprioception](https://arxiv.org/pdf/1905.09335.pdf), F. Torabi et al., IJCAI 2019
+
+  * [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/abs/1905.12310), M. Sun et al., 2019
 
   * [End-to-end Driving via Conditional Imitation Learning](https://arxiv.org/abs/1710.02410), F. Codevilla et al., ICRA 2018
 
@@ -113,6 +121,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### Model-based approaches
   * [Deep Imitative Models for Flexible Inference, Planning, and Control](https://arxiv.org/abs/1810.06544), N. Rhinehart et al., 2019 [[blog]](https://sites.google.com/view/imitative-models)
 
+  * [Model-based imitation learning from state trajectories](https://openreview.net/forum?id=S1GDXzb0b&noteId=S1GDXzb0b), S. Chaudhury et al., 2018
+
   * [End-to-End Differentiable Adversarial Imitation Learning](http://proceedings.mlr.press/v70/baram17a/baram17a.pdf), N. Baram et al., ICML 2017
 
 
@@ -164,6 +174,9 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 ### POMDP
   * [Learning Belief Representations for Imitation Learning in POMDPs](https://arxiv.org/pdf/1906.09510.pdf), T. Gangwani et al., 2019
+
+### Planning
+  * [Dyna-AIL : Adversarial Imitation Learning by Planning](https://arxiv.org/abs/1903.03234), V Saxena et al., 2019
 
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
