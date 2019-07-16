@@ -167,6 +167,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### Inverse reinforcement learning
   * [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](http://proceedings.mlr.press/v97/brown19a/brown19a.pdf), D. Brown et al., ICML 2019
 
+  * [Learning Reward Functions by Integrating Human Demonstrations and Preferences](https://arxiv.org/pdf/1906.08928), M. Palan et al., 2019
+  
   * [Learning Robust Rewards with Adversarial Inverse Reinforcement Learning](https://arxiv.org/abs/1710.11248), J. Fu et al., 2018
 
   * [Model-Free Deep Inverse Reinforcement Learning by Logistic Regression](https://link.springer.com/article/10.1007/s11063-017-9702-7), E. Uchibe, 2018
