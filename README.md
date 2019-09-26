@@ -2,7 +2,7 @@
 A curated list of awesome imitation learning (including inverse reinforcement learning and behavior cloning) resources, inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Contribution 
-Please feel free to send me [pull request](https://github.com/kristery/Awesome-Imitation-Learning/pulls) or email (d06922005@csie.ntu.edu.tw) to add links.
+Please feel free to send me [pull request](https://github.com/kristery/Awesome-Imitation-Learning/pulls) or email (kriswu8021@gmail.com) to add links.
 
 ## Table of Contents
 
