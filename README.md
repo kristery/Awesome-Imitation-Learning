@@ -15,6 +15,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### General settings
   * [Imitation Learning from Imperfect Demonstration](http://proceedings.mlr.press/v97/wu19a/wu19a.pdf), Y. Wu et al., ICML 2019 
 
+  * [VILD: Variational Imitation Learning with Diverse-quality Demonstrations](https://arxiv.org/pdf/1909.06769.pdf), V. Tangkaratt et al., 2019
+
   * [Sample-Efficient Imitation Learning via Generative Adversarial Nets](https://arxiv.org/abs/1809.02064), L. Blonde et al., AISTATS 2019
   
   * [Sample Efficient Imitation Learning for Continuous Control](https://openreview.net/pdf?id=BkN5UoAqF7), F. Sasaki et al., ICLR 2019
@@ -52,6 +54,14 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476), J. Ho et al., NIPS 2016
 
 ### Applications
+  * [Model Imitation for Model-Based Reinforcement Learning](https://arxiv.org/abs/1909.11821.pdf), Y. Wu et al., 2019
+
+  * [Multi-Task Hierarchical Imitation Learning for Home Automation](http://ronberenstein.com/papers/CASE19_Multi-Task%20Hierarchical%20Imitation%20Learning%20for%20Home%20Automation%20%20.pdf), R. Fox et al., 2019
+
+  * [Imitation Learning for Human Pose Prediction](https://arxiv.org/pdf/1909.03449.pdf), B. Wang et al., 2019
+
+  * [Making Efficient Use of Demonstrations to Solve Hard Exploration Problems](https://arxiv.org/abs/1909.11821), C. Gulcehre et al., 2019
+
   * [Imitation Learning from Video by Leveraging Proprioception](https://arxiv.org/pdf/1905.09335.pdf), F. Torabi et al., IJCAI 2019
 
   * [Adversarial Imitation Learning from Incomplete Demonstrations](https://arxiv.org/abs/1905.12310), M. Sun et al., 2019
