@@ -94,7 +94,9 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   
   * [Imitation Learning : A Survey of Learning Methods](http://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf), A. Hussein et al.
 
-### Robotics
+### Robotics and Vision
+  * [Graph-Structured Visual Imitation](https://arxiv.org/abs/1907.05518), M. Sieb et al., CoRL 2019
+
   * [On-Policy Robot Imitation Learning from a Converging Supervisor](https://arxiv.org/abs/1907.03423), A. Balakrishna et al., CoRL 2019
 
   * [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Reward](https://pdfs.semanticscholar.org/8186/04245973bb30ad021728149a89157b3b2780.pdf), M. Vecerik et al., 2017
@@ -212,9 +214,6 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 ### Planning
   * [Dyna-AIL : Adversarial Imitation Learning by Planning](https://arxiv.org/abs/1903.03234), V. Saxena et al., 2019
-
-### Visual-based approaches
-  * [Graph-Structured Visual Imitation](https://arxiv.org/abs/1907.05518), M. Sieb et al., CoRL 2019
 
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
