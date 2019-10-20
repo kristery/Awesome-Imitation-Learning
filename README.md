@@ -61,7 +61,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Better-than-Demonstrator Imitation Learning via Automatically-Ranked Demonstrations](https://arxiv.org/pdf/1907.03976.pdf), D. Brown et al., CoRL 2019
 
-  * [Task-Relevant Adversarial Imitation Learning](K. Zolna et al., 2019)
+  * [Task-Relevant Adversarial Imitation Learning](https://arxiv.org/abs/1910.01077), K. Zolna et al., 2019
 
   * [Multi-Task Hierarchical Imitation Learning for Home Automation](http://ronberenstein.com/papers/CASE19_Multi-Task%20Hierarchical%20Imitation%20Learning%20for%20Home%20Automation%20%20.pdf), R. Fox et al., 2019
 
@@ -193,7 +193,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings](https://arxiv.org/abs/1905.01296), N. Rhinehart et al., 2019 [[blog]](https://sites.google.com/view/precog)
 
 ### Inverse reinforcement learning
-  * [Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning], D. Park et al., CoRL 2019
+  * Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning, D. Park et al., CoRL 2019
 
   * [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](http://proceedings.mlr.press/v97/brown19a/brown19a.pdf), D. Brown et al., ICML 2019
 
