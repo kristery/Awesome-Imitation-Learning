@@ -138,6 +138,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Deep Reinforcement Learning from Human Preferences](http://papers.nips.cc/paper/7017-deep-reinforcement-learning-from-human-preferences), P. Christiano et al., NIPS 2017
 
 ### Learning from observations
+  * [Imitation Learning from Observations by Minimizing Inverse Dynamics Disagreement](https://arxiv.org/abs/1910.04417), C. Yang et al., NeurIPS 2019
+
   * To Follow or not to Follow: Selective Imitation Learning from Observations, Y. Lee et al., CoRL 2019
 
   * [Provably Efficient Imitation Learning from Observation Alone](http://proceedings.mlr.press/v97/sun19b.html), W. Sun et al., ICML 2019
