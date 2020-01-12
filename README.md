@@ -142,6 +142,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Provably Efficient Imitation Learning from Observation Alone](http://proceedings.mlr.press/v97/sun19b.html), W. Sun et al., ICML 2019
 
+  * [To follow or not to follow: Selective Imitation Learning from Observations](https://arxiv.org/abs/1912.07670), Y. Lee et al.
+
   * [Recent Advances in Imitation Learning from Observation](https://arxiv.org/pdf/1905.13566.pdf), F. Torabi et al., IJCAI 2019
   
   * [Adversarial Imitation Learning from State-only Demonstrations](https://dl.acm.org/citation.cfm?id=3332067), F. Torabi et al., AAMAS 2019
