@@ -13,6 +13,12 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ## Papers
 
 ### General settings
+  * [Generative Adversarial Imitation Learning with Neural Networks: Global Optimality and Convergence Rate](https://arxiv.org/abs/2003.03709), Y. Zhang et al., ICML 2020
+
+  * [Provable Representation Learning for Imitation Learning via Bi-level Optimization](https://arxiv.org/pdf/2002.10544), S. Arora et al., ICML 2020
+
+  * [Domain Adaptive Imitation Learning](https://arxiv.org/pdf/1910.00105), K. Kim et al., ICML 2020
+
   * [Imitation Learning from Imperfect Demonstration](http://proceedings.mlr.press/v97/wu19a/wu19a.pdf), Y. Wu et al., ICML 2019 
 
   * A Divergence Minimization Perspective on Imitation Learning Methods, S. Ghasemipour et al., CoRL 2019
@@ -123,6 +129,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations), Y. Li et al., NIPS 2017
 
 ### Hierarchical approaches
+  * [Learning Compound Tasks without Task-specific Knowledge via Imitation and Self-supervised Learning](https://proceedings.icml.cc/static/paper_files/icml/2020/4283-Paper.pdf), S. Lee et al., ICML 2020
+
   * [CompILE: Compositional Imitation Learning and Execution](https://arxiv.org/pdf/1812.01483.pdf), T. Kipf et al., ICML 2019
 
   * [Directed-Info GAIL: Learning Hierarchical Policies from Unsegmented Demonstrations using Directed Information](https://openreview.net/pdf?id=BJeWUs05KQ), M. Sharma et al., ICLR 2019
@@ -133,6 +141,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 
 ### Learning from human preference
+  * [Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences](https://arxiv.org/abs/2002.09089), D. Brown et al., ICML 2020
+
   * [A Low-Cost Ethics Shaping Approach for Designing Reinforcement Learning Agents](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16195/15869), Y. Wu et al., AAAI 2018
 
   * [Deep Reinforcement Learning from Human Preferences](http://papers.nips.cc/paper/7017-deep-reinforcement-learning-from-human-preferences), P. Christiano et al., NIPS 2017
@@ -197,6 +207,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [PRECOG: PREdiction Conditioned On Goals in Visual Multi-Agent Settings](https://arxiv.org/abs/1905.01296), N. Rhinehart et al., 2019 [[blog]](https://sites.google.com/view/precog)
 
 ### Inverse reinforcement learning
+  * [Intrinsic Reward Driven Imitation Learning via Generative Model](https://arxiv.org/pdf/2006.15061), X. Yu et al., ICML 2020
+
   * Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning, D. Park et al., CoRL 2019
 
   * [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](http://proceedings.mlr.press/v97/brown19a/brown19a.pdf), D. Brown et al., ICML 2019
