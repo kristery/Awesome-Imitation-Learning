@@ -175,6 +175,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 
 ### Behavior cloning
+  * [Imitating Unknown Policies via Exploration](https://arxiv.org/abs/2008.05660), G. Nathan et al., BMVC 2020
+  
   * [Augmented Behavioral Cloning from Observation](https://arxiv.org/pdf/2004.13529.pdf), M. Juarez et al., IJCNN 2020
   
   * [Truly Batch Apprenticeship Learning with Deep Successor Features](https://arxiv.org/pdf/1903.10077), D. Lee et al., 2019
