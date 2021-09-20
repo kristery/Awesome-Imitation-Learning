@@ -13,6 +13,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ## Papers
 
 ### General settings
+  * [Learning from Imperfect Demonstrations from Agents with Varying Dynamics](https://arxiv.org/abs/2103.05910), Z. Cao et al., ICRA 2021
+
   * [Generative Adversarial Imitation Learning with Neural Networks: Global Optimality and Convergence Rate](https://arxiv.org/abs/2003.03709), Y. Zhang et al., ICML 2020
 
   * [Provable Representation Learning for Imitation Learning via Bi-level Optimization](https://arxiv.org/pdf/2002.10544), S. Arora et al., ICML 2020
