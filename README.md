@@ -237,6 +237,16 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### Planning
   * [Dyna-AIL : Adversarial Imitation Learning by Planning](https://arxiv.org/abs/1903.03234), V. Saxena et al., 2019
 
+
+### Representation learning
+  * [Visual Adversarial Imitation Learning using Variational Models](https://proceedings.neurips.cc/paper/2021/hash/1796a48fa1968edd5c5d10d42c7b1813-Abstract.html), R. Rafailov et al., NeuRIPS 2021
+  * [An Empirical Investigation of Representation Learning for Imitation](https://openreview.net/forum?id=kBNhgqXatI), X. Chen et al., NeuRIPS 2021
+  * [Self-Supervised Disentangled Representation Learning for Third-Person Imitation Learning](https://ieeexplore.ieee.org/abstract/document/9636363?casa_token=h9sZkw2gl3gAAAAA:jvlP3duYMpTJRczH8uHwKvqxvQDccsplK8eF_Hd1mYEa0CC6Tso7z7iWSWiwoIQmQdhTLg7f), J. Shang et al., IROS 2021
+  * [The Surprising Effectiveness of Representation Learning for Visual Imitation](https://arxiv.org/abs/2112.01511), J. Pari et al., 2021
+  * [Provable Representation Learning for Imitation Learning via Bi-level Optimization](http://proceedings.mlr.press/v119/arora20a.html), S. Arora et al., ICML 2020
+  * [Causal Confusion in Imitation Learning](https://proceedings.neurips.cc/paper/2019/hash/947018640bf36a2bb609d3557a285329-Abstract.html), P. Haan et al, NeuRIPS 2019
+
+
 ## Tutorials and talks
   * [2018 ICML](https://www.youtube.com/watch?v=6rZTaboSY4k) [(Slides)](https://sites.google.com/view/icml2018-imitation-learning/)
   * [Imitation learning basic (National Taiwan University)](https://www.youtube.com/watch?v=rOho-2oJFeA)
