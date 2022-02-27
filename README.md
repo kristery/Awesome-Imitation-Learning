@@ -13,6 +13,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ## Papers
 
 ### General settings
+  * [IQ-Learn: Inverse soft-Q Learning for Imitation](https://arxiv.org/abs/2106.12142), D. Garg et al., NeurIPS 2021
+
   * [Learning from Imperfect Demonstrations from Agents with Varying Dynamics](https://arxiv.org/abs/2103.05910), Z. Cao et al., ICRA 2021
 
   * [Generative Adversarial Imitation Learning with Neural Networks: Global Optimality and Convergence Rate](https://arxiv.org/abs/2003.03709), Y. Zhang et al., ICML 2020
