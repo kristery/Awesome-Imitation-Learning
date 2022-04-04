@@ -17,17 +17,19 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Learning from Imperfect Demonstrations from Agents with Varying Dynamics](https://arxiv.org/abs/2103.05910), Z. Cao et al., ICRA 2021
 
+  * [Robust Imitation Learning from Noisy Demonstrations](https://proceedings.mlr.press/v130/tangkaratt21a.html), V. Tangkaratt et al., AISTATS 2021
+
   * [Generative Adversarial Imitation Learning with Neural Networks: Global Optimality and Convergence Rate](https://arxiv.org/abs/2003.03709), Y. Zhang et al., ICML 2020
 
   * [Provable Representation Learning for Imitation Learning via Bi-level Optimization](https://arxiv.org/pdf/2002.10544), S. Arora et al., ICML 2020
 
   * [Domain Adaptive Imitation Learning](https://arxiv.org/pdf/1910.00105), K. Kim et al., ICML 2020
 
+  * [VILD: Variational Imitation Learning with Diverse-quality Demonstrations](https://proceedings.mlr.press/v119/tangkaratt20a.html), V. Tangkaratt et al., ICML 2020
+
   * [Imitation Learning from Imperfect Demonstration](http://proceedings.mlr.press/v97/wu19a/wu19a.pdf), Y. Wu et al., ICML 2019 
 
   * A Divergence Minimization Perspective on Imitation Learning Methods, S. Ghasemipour et al., CoRL 2019
-
-  * [VILD: Variational Imitation Learning with Diverse-quality Demonstrations](https://arxiv.org/pdf/1909.06769.pdf), V. Tangkaratt et al., 2019
 
   * [Sample-Efficient Imitation Learning via Generative Adversarial Nets](https://arxiv.org/abs/1809.02064), L. Blonde et al., AISTATS 2019
   
