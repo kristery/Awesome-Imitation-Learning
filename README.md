@@ -12,6 +12,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ## Papers
 
 ### General settings
+  * [How Resilient Are Imitation Learning Methods to Sub-optimal Experts?](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_32), Gavenski et al., BRACIS 2023
+
   * [IQ-Learn: Inverse soft-Q Learning for Imitation](https://arxiv.org/abs/2106.12142), D. Garg et al., NeurIPS 2021
 
   * [Learning from Imperfect Demonstrations from Agents with Varying Dynamics](https://arxiv.org/abs/2103.05910), Z. Cao et al., ICRA 2021
