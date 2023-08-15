@@ -158,6 +158,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [MobILE: Model-Based Imitation Learning From Observation Alone](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f06048518ff8de2035363e00710c6a1d-Abstract.html), Kidambi et al., NeurIPS 2021 
 
+  * [Off-Policy Imitation Learning from Observations](https://arxiv.org/abs/2102.13185), Zhu et al., NeurIPS 2020
+
   * [Imitation Learning from Observations by Minimizing Inverse Dynamics Disagreement](https://arxiv.org/abs/1910.04417), C. Yang et al., NeurIPS 2019
 
   * [To Follow or not to Follow: Selective Imitation Learning from Observations](https://arxiv.org/abs/1912.07670), Y. Lee et al., CoRL 2019
