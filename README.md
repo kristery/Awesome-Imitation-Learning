@@ -28,7 +28,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Imitation Learning from Imperfect Demonstration](http://proceedings.mlr.press/v97/wu19a/wu19a.pdf), Y. Wu et al., ICML 2019 
 
-  * A Divergence Minimization Perspective on Imitation Learning Methods, S. Ghasemipour et al., CoRL 2019
+  * [A Divergence Minimization Perspective on Imitation Learning Methods](https://arxiv.org/abs/1911.02256), S. Ghasemipour et al., CoRL 2019
 
   * [Sample-Efficient Imitation Learning via Generative Adversarial Nets](https://arxiv.org/abs/1809.02064), L. Blonde et al., AISTATS 2019
   
