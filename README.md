@@ -12,6 +12,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ## Papers
 
 ### General settings
+  * [How Resilient Are Imitation Learning Methods to Sub-optimal Experts?](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_32), Gavenski et al., BRACIS 2023
+
   * [IQ-Learn: Inverse soft-Q Learning for Imitation](https://arxiv.org/abs/2106.12142), D. Garg et al., NeurIPS 2021
 
   * [Learning from Imperfect Demonstrations from Agents with Varying Dynamics](https://arxiv.org/abs/2103.05910), Z. Cao et al., ICRA 2021
@@ -28,7 +30,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [Imitation Learning from Imperfect Demonstration](http://proceedings.mlr.press/v97/wu19a/wu19a.pdf), Y. Wu et al., ICML 2019 
 
-  * A Divergence Minimization Perspective on Imitation Learning Methods, S. Ghasemipour et al., CoRL 2019
+  * [A Divergence Minimization Perspective on Imitation Learning Methods](https://arxiv.org/abs/1911.02256), S. Ghasemipour et al., CoRL 2019
 
   * [Sample-Efficient Imitation Learning via Generative Adversarial Nets](https://arxiv.org/abs/1809.02064), L. Blonde et al., AISTATS 2019
   
@@ -99,6 +101,8 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Query-Efficient Imitation Learning for End-to-End Autonomous Driving](https://arxiv.org/abs/1605.06450), J. Zhang et al., 2016
 
 ### Survey papers
+  * [Imitation Learning: Progress, Taxonomies and Challenges](https://ieeexplore.ieee.org/document/9927439), Zheng et al., 2022
+
   * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274), Y. Li, 2018
   
   * [A Brief Survey of Deep Reinforcement Learning](https://arxiv.org/abs/1708.05866), K. Arulkumaran et al., 2017
@@ -144,7 +148,6 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
   * [OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning](https://arxiv.org/pdf/1709.06683.pdf), P. Henderson et al., AAAI 2018
 
-
 ### Learning from human preference
   * [Safe Imitation Learning via Fast Bayesian Reward Inference from Preferences](https://arxiv.org/abs/2002.09089), D. Brown et al., ICML 2020
 
@@ -153,9 +156,15 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Deep Reinforcement Learning from Human Preferences](http://papers.nips.cc/paper/7017-deep-reinforcement-learning-from-human-preferences), P. Christiano et al., NIPS 2017
 
 ### Learning from observations
+  * [Self-Supervised Adversarial Imitation Learning](https://arxiv.org/abs/2304.10914) M. Juarez et al., IJCNN 2023
+
+  * [MobILE: Model-Based Imitation Learning From Observation Alone](https://proceedings.neurips.cc/paper_files/paper/2021/hash/f06048518ff8de2035363e00710c6a1d-Abstract.html), Kidambi et al., NeurIPS 2021 
+
+  * [Off-Policy Imitation Learning from Observations](https://arxiv.org/abs/2102.13185), Zhu et al., NeurIPS 2020
+
   * [Imitation Learning from Observations by Minimizing Inverse Dynamics Disagreement](https://arxiv.org/abs/1910.04417), C. Yang et al., NeurIPS 2019
 
-  * To Follow or not to Follow: Selective Imitation Learning from Observations, Y. Lee et al., CoRL 2019
+  * [To Follow or not to Follow: Selective Imitation Learning from Observations](https://arxiv.org/abs/1912.07670), Y. Lee et al., CoRL 2019
 
   * [Provably Efficient Imitation Learning from Observation Alone](http://proceedings.mlr.press/v97/sun19b.html), W. Sun et al., ICML 2019
 
@@ -194,7 +203,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 
 ### Imitation with rewards
-  * Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning, A. Gupta et al., CoRL 2019
+  * [Relay Policy Learning: Solving Long-Horizon Tasks via Imitation and Reinforcement Learning](https://arxiv.org/abs/1910.11956), A. Gupta et al., CoRL 2019
 
   * [Integration of Imitation Learning using GAIL and Reinforcement Learning using Task-achievement Rewards via Probabilistic Generative Model](https://arxiv.org/pdf/1907.02140.pdf), A. Kinose et al., 2019
   
@@ -218,7 +227,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ### Inverse reinforcement learning
   * [Intrinsic Reward Driven Imitation Learning via Generative Model](https://arxiv.org/pdf/2006.15061), X. Yu et al., ICML 2020
 
-  * Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning, D. Park et al., CoRL 2019
+  * [Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning](https://proceedings.mlr.press/v100/park20a.html), D. Park et al., CoRL 2019
 
   * [Extrapolating Beyond Suboptimal Demonstrations via Inverse Reinforcement Learning from Observations](http://proceedings.mlr.press/v97/brown19a/brown19a.pdf), D. Brown et al., ICML 2019
 
