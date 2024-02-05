@@ -19,7 +19,7 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [Behavior Transformers: Cloning k modes with one stone](https://mahis.life/bet/), N.M. Shafiullah et al., NeurIPS 2022
 
   * [Implicit Behavioral Cloning](https://implicitbc.github.io/), P. Florence et al., CoRL 2021
-  * 
+    
   * [How Resilient Are Imitation Learning Methods to Sub-optimal Experts?](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_32), Gavenski et al., BRACIS 2023
 
   * [IQ-Learn: Inverse soft-Q Learning for Imitation](https://arxiv.org/abs/2106.12142), D. Garg et al., NeurIPS 2021
