@@ -12,6 +12,14 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 ## Papers
 
 ### General settings
+  * [Memory-Consistent Neural Networks for Imitation Learning](https://sites.google.com/view/mcnn-imitation), K. Sridhar et al., ICLR 2024 
+
+  * [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://diffusion-policy.cs.columbia.edu/), C. Chi et al., RSS 2023
+
+  * [Behavior Transformers: Cloning k modes with one stone](https://mahis.life/bet/), N.M. Shafiullah et al., NeurIPS 2022
+
+  * [Implicit Behavioral Cloning](https://implicitbc.github.io/), P. Florence et al., CoRL 2021
+    
   * [How Resilient Are Imitation Learning Methods to Sub-optimal Experts?](https://link.springer.com/chapter/10.1007/978-3-031-21689-3_32), Gavenski et al., BRACIS 2023
 
   * [IQ-Learn: Inverse soft-Q Learning for Imitation](https://arxiv.org/abs/2106.12142), D. Garg et al., NeurIPS 2021
@@ -125,6 +133,14 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
   * [One-Shot Imitation Learning](http://papers.nips.cc/paper/6709-one-shot-imitation-learning), Y. Duan et al., NIPS 2017
  
 ### Learning multi-modal behaviors
+  * [Memory-Consistent Neural Networks for Imitation Learning](https://sites.google.com/view/mcnn-imitation), K. Sridhar et al., ICLR 2024 
+
+  * [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://diffusion-policy.cs.columbia.edu/), C. Chi et al., RSS 2023
+
+  * [Behavior Transformers: Cloning k modes with one stone](https://mahis.life/bet/), N.M. Shafiullah et al., NeurIPS 2022
+
+  * [Implicit Behavioral Cloning](https://implicitbc.github.io/), P. Florence et al., CoRL 2021
+    
   * [Learning a Multi-Modal Policy via Imitating Demonstrations with Mixed Behaviors](https://arxiv.org/pdf/1903.10304), F Hsiao et al., 2019
   
   * [Watch, Try, Learn: Meta-Learning from Demonstrations and Reward. Imitation learning](https://arxiv.org/pdf/1906.03352), A. Zhou et al., 2019
@@ -189,6 +205,14 @@ Please feel free to send me [pull request](https://github.com/kristery/Awesome-I
 
 
 ### Behavior cloning
+  * [Memory-Consistent Neural Networks for Imitation Learning](https://sites.google.com/view/mcnn-imitation), K. Sridhar et al., ICLR 2024 
+
+  * [Diffusion Policy: Visuomotor Policy Learning via Action Diffusion](https://diffusion-policy.cs.columbia.edu/), C. Chi et al., RSS 2023
+
+  * [Behavior Transformers: Cloning k modes with one stone](https://mahis.life/bet/), N.M. Shafiullah et al., NeurIPS 2022
+
+  * [Implicit Behavioral Cloning](https://implicitbc.github.io/), P. Florence et al., CoRL 2021
+    
   * [Imitating Unknown Policies via Exploration](https://arxiv.org/abs/2008.05660), G. Nathan et al., BMVC 2020
   
   * [Augmented Behavioral Cloning from Observation](https://arxiv.org/pdf/2004.13529.pdf), M. Juarez et al., IJCNN 2020
